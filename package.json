@@ -14,7 +14,7 @@
     "react-bootstrap": "^1.0.0",
     "react-dom": "^16.13.1",
     "react-globe-custom": "git+https://github.com/tgmof/react-globe.git#69668a39704cf19dd30b392350cc675f4fbc2ecb",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-three-fiber": "^4.2.18",
     "three": "^0.115.0",
     "tippy.js": "^6.2.7"
